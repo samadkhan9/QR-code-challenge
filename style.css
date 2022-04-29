@@ -43,7 +43,7 @@
 h1 {
 	font-weight: 400, 700;
 	margin: 10px;
-	font-size: 30px;
+	font-size: 20px;
 }
 
 p {
@@ -66,5 +66,4 @@ p {
 
 .font {
 	padding: 10px;
-	font-size: 15px;
 }
