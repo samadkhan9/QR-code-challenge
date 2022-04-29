@@ -1,0 +1,71 @@
+@media only screen and (max-width: 1440px) {
+	body {
+		background-color: lightblue;
+	}
+
+	h1 {
+		font-weight: 400, 700;
+		margin-top: 30px;
+		font-size: 40px;
+	}
+
+	p {
+		font-size: 35px;
+		font-weight: 400, 700;
+		color: hsl(220, 15%, 55%);
+	}
+
+}
+
+@media only screen and (max-width: 450px) {
+	body {
+		background-color: rgb(14, 16, 17);
+	}
+
+	h1 {
+		font-weight: 400, 700;
+		font-size: 20px;
+		padding: 30px 0 0 0;
+		margin: 5px;
+	}
+
+	p {
+		font-size: 15px;
+		font-weight: 400, 700;
+		color: hsl(212, 45%, 89);
+		padding:  0;
+		margin: 0;
+	}
+
+	.attribution {
+		margin: 10px;
+		position: relative;
+		padding-top: 50px;
+		font-size: 11px;
+	}
+
+	.container {
+		margin: 0;
+		padding: 0;
+	}
+
+	.box1 {
+		height: 70vh;
+		max-width: 30.2em;
+		max-height: 1100px;
+		margin: 0px;
+		padding: 0;
+	}
+
+	.box1 img {
+		width: 65vw;
+		margin: 0;
+		padding: 0;
+	}
+
+	.box2 {
+		height: 70vh;
+		width: 70vw;
+		padding: 10px 0;
+	}
+}
