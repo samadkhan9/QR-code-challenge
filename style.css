@@ -42,7 +42,7 @@
 
 h1 {
 	font-weight: 400, 700;
-	margin: 10px;
+	margin: -20px;
 	font-size: 20px;
 }
 
@@ -53,7 +53,6 @@ p {
 }
 
 .attribution {
-	margin-top: 20px;
 	font-size: 25px;
 	font-size: 11px;
 	text-align: center;
